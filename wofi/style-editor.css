@@ -1,0 +1,76 @@
+* {
+  background: rgba(40, 40, 40, 0);
+  color: white;
+  border-radius: 8px;
+  padding: 6px;
+  font-family: "JetBrainsMono Nerd Font";
+}
+
+/* unselected */
+.listview-item {
+  background-color: rgba(38, 38, 38, 0.2);
+}
+
+/* selected */
+.listview-item:selected {
+  background-color: #88c0d0;
+  color: #2e3440;
+  transition: background-color 0.2s ease-in-out,
+              color            0.2s ease-in-out;
+}
+
+.entry {
+  transition: background-color 0.2s ease-in-out,
+              border-color     0.2s ease-in-out;
+}
+
+/* prompt bar */
+.entry {
+  background-color: rgba(30, 30, 30, 0.1);
+  border-bottom: 1px solid #4c566a;
+}
+
+window {
+  background-color: rgba(21,41,58,0.8);
+  filter: blur(500px);
+  border: 1px solid rgba(116,148,190,0.6);
+  margin: 10px;
+}
+.listview {
+  /* GTK uses grid under the hood, so you can set row/column gaps */
+  grid-column-gap: 12px;
+  grid-row-gap: 6px;
+}
+
+#text:selected {
+  color: rgba(116,148,190,1);
+  font-weight: bold;
+}
+
+#selected{
+  background-color: rgba(30, 30, 30, 0.4);
+}
+
+#input{
+  border: 2px solid #88c0d0;
+}
+
+#input:selected{
+  background-color: orange;
+}
+
+#input {
+  background-color: rgba(30, 30, 30, 0.2);
+  border: 2px solid rgba(136, 192, 208,0.6);
+  border-radius: 6px;
+  padding: 6px 8px;
+  color: #c0caf5;
+  transition:all 0.1s ease-in-out
+}
+
+/* When you click into it (focus), change border & bg */
+#input:focus {
+  background-color: rgba(40, 44, 52, 0.3);
+  border: 2px solid #88c0d0;
+  color: #eceff4;
+}

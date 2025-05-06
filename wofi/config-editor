@@ -1,0 +1,17 @@
+# ~/.config/wofi/config-editor
+style = ~/.config/wofi/style-editor.css
+show-icons = false
+font = JetBrainsMono Nerd Font 13
+lines = 10
+prompt = search
+width = 30%
+columns = 2
+gtk-dark=true
+allow_images=true
+image_size=32
+insensitive=true
+allow_markup=true
+no_actions=true
+orientation=vertical
+halign=fill
+content_halign=fill
