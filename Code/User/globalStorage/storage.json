@@ -1,0 +1,68 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "7f7606ae0fa00b114b9fa393e83f7eff496bc9b05e47a70252548ff2baf27a9c",
+    "telemetry.devDeviceId": "be79c5af-35cf-4fe2-b777-907b69926ba5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1746445566713"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ivar/.config/hypr": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1746445448840": "__default__profile__",
+            "1746445545560": "__default__profile__",
+            "1746445566713": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/ivar/.config/Code/Backups/1746445566713",
+            "uiState": {
+                "mode": 1,
+                "x": 2887,
+                "y": 743,
+                "width": 941,
+                "height": 325
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

@@ -1,0 +1,27 @@
+2025-05-05 13:45:46.074 [info] read schema from vscode: vscode://schemas/settings/user
+2025-05-05 13:45:46.074 [info] cancelled
+2025-05-05 13:45:46.149 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-05-05 13:45:46.150 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-05-05 13:45:46.153 [info] read schema from vscode: vscode://schemas/launch
+2025-05-05 13:45:46.154 [info] read schema from vscode: vscode://schemas/mcp
+2025-05-05 13:45:46.155 [info] read schema from vscode: vscode://schemas/token-styling
+2025-05-05 13:45:46.155 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-05-05 13:45:46.156 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-05-05 13:45:48.093 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2025-05-05 13:45:48.094 [info] read schema from vscode: vscode://schemas/settings/user
+2025-05-05 13:45:48.097 [info] schema change detected vscode://schemas/ignoredSettings
+2025-05-05 13:45:48.151 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-05-05 13:45:48.152 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-05-05 13:45:48.161 [info] schema change detected vscode://schemas/settings/user
+2025-05-05 13:45:48.198 [info] cancelled
+2025-05-05 13:45:48.198 [info] read schema from vscode: vscode://schemas/settings/user
+2025-05-05 13:45:48.236 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-05-05 13:45:48.236 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-05-05 13:45:48.239 [info] read schema from vscode: vscode://schemas/launch
+2025-05-05 13:45:48.239 [info] read schema from vscode: vscode://schemas/mcp
+2025-05-05 13:45:48.240 [info] read schema from vscode: vscode://schemas/token-styling
+2025-05-05 13:45:48.240 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-05-05 13:45:48.240 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-05-05 13:45:50.955 [info] schema change detected vscode://schemas/launch
+2025-05-05 13:45:50.955 [info] read schema from vscode: vscode://schemas/settings/user
+2025-05-05 13:45:50.997 [info] read schema from vscode: vscode://schemas/launch

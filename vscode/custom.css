@@ -1,0 +1,10 @@
+/* blur the background everywhere */
+.monaco-workbench {
+    backdrop-filter: blur(10px) !important;
+  }
+  
+  /* slightly darken the gaps */
+  .part.editor > .content {
+    background-color: rgba(30,30,30,0.3) !important;
+  }
+  

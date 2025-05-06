@@ -1,0 +1,1 @@
+../../../dotfiles/fish/.config/fish/completions/bun.fish
