@@ -19,6 +19,7 @@ picom|/home/ivar/.config/picom
 rofi|/home/ivar/.config/rofi/config.rasi
 wofi|/home/ivar/.config/wofi
 dunst|/home/ivar/.config/dunst/dunstrc
+customscripts|/home/ivar/.config/customscripts
 EOF
 
 # 2) Present only the left of “|” to Wofi
